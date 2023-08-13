@@ -1,4 +1,4 @@
-![QA](https://github.com/nivivirat/WordLink-Challenge/assets/112305849/1440561c-fdd8-4508-8a90-0b0f85e86d66)# Word-Link-Challenge
+# Word-Link-Challenge
 
 Welcome to Word-Link-Challenge, a word guesser game inspired by Wordle! Test your word-solving skills by unscrambling jumbled letters to form meaningful words. Each correct guess earns you a point, and you'll have five exciting questions to tackle. Let's dive in!
 
@@ -14,11 +14,11 @@ The application is [hosted](https://word-linkchallenge.onrender.com/).
 
 2. **Word Guessing:** You'll be given the meaning of a word, but the letters of the word will be jumbled, represented by dashes. Your task is to select the correct order of the letters to complete the word.
 
-![QA](https://github.com/nivivirat/WordLink-Challenge/assets/112305849/37d50183-8b6c-4b32-97cd-dc6503069836)
+![IMP](https://github.com/nivivirat/WordLink-Challenge/assets/112305849/8035c5cb-1065-4a8e-918d-8dcdc4feeed8)
 
 3. **Validation:** After you click on all the letters to form the word, the system will validate your guess. If your guess is correct, you'll earn 1 point.
 
-![QW](https://github.com/nivivirat/WordLink-Challenge/assets/112305849/944c9c1d-90ef-4851-af53-fcf7539e7d38)
+![Res](https://github.com/nivivirat/WordLink-Challenge/assets/112305849/f74f1831-a15d-4ba6-8a86-d9db48f114be)
 
 4. **Five Questions:** The game consists of five exciting questions. Each question presents a new word to unscramble.
 
