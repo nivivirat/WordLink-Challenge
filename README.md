@@ -18,7 +18,7 @@ The application is [hosted](https://word-linkchallenge.onrender.com/).
 
 3. **Validation:** After you click on all the letters to form the word, the system will validate your guess. If your guess is correct, you'll earn 1 point.
 
-![Res](https://github.com/nivivirat/WordLink-Challenge/assets/112305849/f74f1831-a15d-4ba6-8a86-d9db48f114be)
+![IMG](https://github.com/nivivirat/WordLink-Challenge/assets/112305849/fb55d963-84fd-4239-8a78-891c6ca01d02)
 
 4. **Five Questions:** The game consists of five exciting questions. Each question presents a new word to unscramble.
 
