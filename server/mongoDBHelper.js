@@ -1,13 +1,12 @@
 const { MongoClient, ObjectId } = require('mongodb');
+const {config} = require('dotenv');
 
-const atlasUsername = 'imniveditha1188';
-const atlasPassword = 'JEEVANTH';
-const clusterName = 'cluster1';
 const dbName = 'db'; // Replace with your database name
 const collectionName = 'Questions'; // Replace with your collection name
 const userScoreCollectionName = 'UserScores'; // New collection for storing user scores
 
-const atlasUrl = "mongodb+srv://imniveditha1188:JEEVANTH@cluster1.nkpsr81.mongodb.net/?retryWrites=true&w=majority";
+config()
+const atlasUrl = process.env.MONGODB_URI;
 
 async function connectToDatabase() {
   const client = new MongoClient(atlasUrl, { useUnifiedTopology: true });
